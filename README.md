@@ -86,7 +86,7 @@ Sou apaixonada por tecnologia, inovação e por criar soluções que unem inteli
 
 <br/>
 
-## Projetos em Destaque
+<h2 align="center"> Projetos em Destaque </h2>
 
 <table>
   <tr>
