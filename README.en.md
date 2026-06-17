@@ -3,7 +3,7 @@
 
 <div align="right">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/Idioma-PortuguNaNs-green?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Versão em Português">
+    <img src="https://img.shields.io/badge/Idioma-PT--BR-green?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Versão em Português">
   </a>
 </div>
 
