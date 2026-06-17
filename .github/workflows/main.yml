@@ -11,7 +11,7 @@ on:
   # Executa a cada push na branch main
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -28,8 +28,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           grid_id: github-contribution-grid
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&hide_weeks=false&hide_days=false
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&hide_weeks=false&hide_days=false
           
       # Envia os arquivos gerados para a branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
