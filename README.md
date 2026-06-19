@@ -144,6 +144,11 @@ Sou apaixonada por tecnologia, inovação e por criar soluções que unem inteli
   <img alt="Github snake" src="https://raw.githubusercontent.com/Alexyycb/Alexyycb/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+<div align="center">
+  <h2> Contagem de visitantes </h2>
+  <img src="https://komarev.com/ghpvc/?username=Alexyycb&color=8a2be2&style=flat-square&label=Visualizações+de+Perfil" />
+</div>
+
 <!--
   <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
