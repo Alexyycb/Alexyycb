@@ -144,6 +144,11 @@ I am passionate about technology, innovation, and building solutions that combin
   <img alt="Github snake" src="https://raw.githubusercontent.com/Alexyycb/Alexyycb/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+<div align="center">
+<h3>Visitor Count</h3>
+<img src="https://komarev.com/ghpvc/?username=Alexyycb&color=ff0000&style=flat-square&label=Profile+Views" />
+</div>
+
 <!--
   <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
